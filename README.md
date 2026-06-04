@@ -32,13 +32,24 @@ Publish the website in the LocalHost.
 
 ## PROGRAM:
 index.html
-'''html
-{% load static %}
+ ```html
+
+
+
+
+
+
+
+
+ {% load static %}
 <!DOCTYPE html>
 <html>
 <head>
+    
+    
     <title>Book Cover Page</title>
-
+    
+    
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;600;800&display=swap" rel="stylesheet">
 
     <style>
